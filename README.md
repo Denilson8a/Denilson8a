@@ -1,5 +1,5 @@
 <h1 align="center">
-    <samp>&gt; Hola, me llamo
+    <samp>&gt; Hi, my name is
         <b><a target="_blank" href="https://shahriarshafin.github.io/">Denilson Ochoa</a></b>
     </samp>
 </h1>
