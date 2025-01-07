@@ -9,5 +9,6 @@
 </p>
 <p align="center">
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="40" />
-    <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/a2mqJeYNu9hjZWvOrj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/leagueoflegends-league-of-legends-wild-rift-teamfight-tactics-a2mqJeYNu9hjZWvOrj">via GIPHY</a></p>
+![GIF](https://media.giphy.com/media/a2mqJeYNu9hjZWvOrj/giphy.gif)
+
 </p>
