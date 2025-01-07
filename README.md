@@ -9,6 +9,5 @@
 </p>
 <p align="center">
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="40" />
-![GIF](https://media.giphy.com/media/a2mqJeYNu9hjZWvOrj/giphy.gif)
-
+    <img src="https://media.giphy.com/media/a2mqJeYNu9hjZWvOrj/giphy.gif" height="100" />
 </p>
